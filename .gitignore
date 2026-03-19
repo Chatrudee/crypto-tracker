@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+
+# Docker & Database
+postgres_data/
+db.sqlite3
+
+# OS generated files
+.DS_Store
