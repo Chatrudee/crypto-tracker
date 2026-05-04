@@ -45,3 +45,7 @@ The system runs as three independent Docker containers. The `db` container hosts
 ## 🚧 Future Improvements
 * Add support for tracking multiple cryptocurrencies (Ethereum, Solana, etc.).
 * Build a Frontend Dashboard to visualize price trends with candlestick charts.
+
+## 🔗 Live Demo
+- API: https://omni-tracker-production.up.railway.app/api/weather/
+- Dashboard: https://omni-tracker-qe9ub9ach-chatrudees-projects.vercel.app
